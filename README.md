@@ -58,7 +58,7 @@ This modpack features various quality-of-life and performance improving mods suc
 
 ## Changelog
 
-See the `CHANGELOG.md` for detailed information on updates and changes.
+See the `Releases` tab for detailed information on updates and changes.
 
 ---
 
