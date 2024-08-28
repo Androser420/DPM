@@ -24,10 +24,11 @@ This modpack features various quality-of-life and performance improving mods suc
 
 1. **Install Forge**: Ensure you have the correct version of Forge installed (1.20.1 - 47.3.7).
 2. **Download the repository**:
-   - Click on the big green `Code` dropdown button at the top of this repo
+   - Click on the big green `Code` dropdown button at the top of this repo  
+   *(or alternatively go to [Releases](https://github.com/Androser420/DPM/releases))*
    - Download as `.zip`
    - Extract the files
-3. **Move Mods to the Mods Folder**: Place all `.jar` files into your Minecraft's (or your instance's) `mods` folder.
+3. **Configuration**: Place all the mods and configs into your Minecraft's (or your instance's) corresponding folders.
 
 ---
 
