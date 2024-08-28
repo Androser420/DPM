@@ -44,15 +44,17 @@ This modpack features various quality-of-life and performance improving mods suc
 
 ### Guidelines
 
-1. **Git LFS Setup**: Ensure Git LFS is installed and configured before contributing to the repository, especially if you are working with `.jar` files.  
-   Refer to the [Git LFS Documentation](https://git-lfs.com/) for guide.
+1. ~~**Git LFS Setup**: Ensure Git LFS is installed and configured before contributing to the repository, especially if you are working with `.jar` files. Refer to the [Git LFS Documentation](https://git-lfs.com/) for guide.~~  
+   *(Note: Using LFS has been discarded due to limitations.)*
 
-2. **Pull Requests**:  
+2. **Modloader / Version**: Please refrain from requesting updates to the modpack for newer versions of Minecraft or asking for a Fabric version. We will only update the modpack when essential mods like Alex's Mobs and XercaMod are updated and/or fully ported to Fabric.
+
+3. **Pull Requests**:  
    - Make sure to submit pull requests to the `main` branch.
    - Include detailed descriptions of the changes made.
    - Don't be dumb.
 
-3. **Testing**: Test your changes in a local environment before submitting them.
+4. **Testing**: Test your changes in a local environment before submitting them.
 
 ---
 
