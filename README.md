@@ -41,6 +41,16 @@ This modpack features various quality-of-life and performance improving mods suc
 
 ---
 
+## Server-side
+To make this modpack work on the server side, you should remove the following mods:
+1. Embeddium & Embeddium Plus
+2. Rubidium Extra
+3. Simple Voice Chat\*  
+   *(not tested)*
+4. Distant Horizons
+
+---
+
 ## Contributing
 
 ### Guidelines
