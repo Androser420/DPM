@@ -1,7 +1,7 @@
 # DPM (Diesel Powered Modpack)
 
-### Minecraft Version: 1.20.1  
-#### Modloader: Forge
+* Minecraft Version: 1.20.1  
+* Modloader: Forge
 
 ---
 
