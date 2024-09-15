@@ -37,7 +37,7 @@ This modpack features various quality-of-life and performance improving mods suc
 - **Xaero's Minimap & World Map**: Adds minimap and world map functionality for better navigation.
 - **Clumps**: Groups XP orbs to reduce lag and improve performance.
 - **Controlling**: Makes keybindings easier to manage with search functionality.
-- **OkZoomer**: Adds the ability to look into further distances without a Spyglass.
+- **Zume**: Adds the ability to look into further distances without a Spyglass.
 - **Inventory HUD+**: Displays your Inventory and Armor stats on screen while playing.
 - **Jade**: What am I looking at?
 ---
