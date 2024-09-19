@@ -1,6 +1,6 @@
 # DPM (Diesel Powered Modpack)
 - **Minecraft Version**: 1.20.1  
-- **Modloader**: Forge (47.3.5+)
+- **Modloader**: Forge (47.3.7+)
 
 ---
 
@@ -21,7 +21,7 @@ This modpack features various quality-of-life and performance improving mods suc
 
 ### Steps
 
-1. **Install Forge**: Ensure you have the correct version of Forge installed (1.20.1 - 47.3.5+).
+1. **Install Forge**: Ensure you have the correct version of Forge installed (1.20.1 - 47.3.7+).
 2. **Download the repository**:
    - Click on the big green `Code` dropdown button at the top of this repo to ensure you have the latest experimental builds  
    *(or alternatively go to [Releases](https://github.com/Androser420/DPM/releases) for stable builds)*
@@ -46,9 +46,7 @@ This modpack features various quality-of-life and performance improving mods suc
 To make this modpack work on the server side, you should remove the following mods:
 1. **Embeddium & Embeddium Plus**
 2. **Rubidium Extra**
-3. **Simple Voice Chat\***  
-   *(not tested)*
-4. **Distant Horizons**
+3. **Distant Horizons**
 
 ---
 
