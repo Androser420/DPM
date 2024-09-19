@@ -1,0 +1,38 @@
+DPM UPDATE v1.0.4 September 19th 2024
+
+Notes:
+- Merged the prism and github modpack together so now all the mods & configs will be the same
+  (This means ServerCore, Zume, and MemoryLeak are now in the main modpack)
+- From now on all update changelogs will be put into this document
+
+Fixes/Configs:
+- Fixed curios api slots
+- Fixed mob imprisonment tool crashing your game when picking up whales
+- Hid uncraftable drawers in jei
+
+Removed Mods:
+- Konkrete (not needed anymore)
+
+New Mods:
+- Aether: Lost Content Addon
+- Chipped
+- Create: Armory
+- Create Sabers
+- Create: Interiors
+
+Updated Mods:
+- AD Astra
+- Better FPS
+- Biomancy
+- Botany Pots
+- Botany Trees
+- Cloth Config API
+- Cooking For Blockheads
+- Easy Villagers
+- Immersive Aircraft
+- Moonlight Lib
+- Sophisticated Backpacks
+- Sophisticated Core
+- Storage Drawers
+- Supplementaries Squared
+- Tool Stats
