@@ -24,3 +24,8 @@ Updated Mods:
 - Storage Drawers
 - Supplementaries Squared
 - Tool Stats
+
+Fixes/Configs:
+- Fixed curios api slots
+- Fixed mob imprisonment tool crashing your game when picking up whales
+- Hid uncraftable drawers in jei
