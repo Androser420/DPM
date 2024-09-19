@@ -74,6 +74,14 @@ _version = 2
 			# Increasing this value will reduce CPU load but may may cause 
 			# LODs to become outdated more frequently or for longer.
 			minTimeBetweenChunkUpdatesInSeconds = 1
+			#
+			# Normally DH will attempt to skip creating LODs for chunks it's already seen
+			# and that haven't changed.
+			# 
+			# However sometimes that logic incorrecly prevents LODs from being updated.
+			# Disabling this check may fix issues where LODs aren't updated after
+			# blocks have been changed.
+			disableUnchangedChunkCheck = false
 
 		[client.advanced.autoUpdater]
 			#
@@ -396,6 +404,13 @@ _version = 2
 
 			[client.advanced.graphics.advancedGraphics]
 				#
+				# If true all beacons near the camera won't be drawn to prevent vanilla overdraw. 
+				# If false all beacons will be rendered. 
+				# 
+				# Generally this should be left as false. It's main purpose is for debugging
+				# beacon updating/rendering.
+				disableBeaconDistanceCulling = false
+				#
 				# What the value should vanilla Minecraft's texture LodBias be? 
 				# If set to 0 the mod wont overwrite vanilla's default (which so happens to also be 0)
 				lodBias = "0.0"
@@ -511,7 +526,7 @@ _version = 2
 				maxHorizontalResolution = "BLOCK"
 				#
 				# The radius of the mod's render distance. (measured in chunks)
-				lodChunkRenderDistanceRadius = 64
+				lodChunkRenderDistanceRadius = 128
 				#
 				# Should the blocks underneath avoided blocks gain the color of the avoided block? 
 				# 
@@ -747,5 +762,5 @@ _version = 2
 			# IP_ONLY: Example: "192.168.1.40" 
 			# NAME_IP: Example: "Minecraft Server IP 192.168.1.40" 
 			# NAME_IP_PORT: Example: "Minecraft Server IP 192.168.1.40:25565"NAME_IP_PORT_MC_VERSION: Example: "Minecraft Server IP 192.168.1.40:25565 GameVersion 1.16.5"
-			serverFolderNameMode = "NAME_IP"
+			serverFolderNameMode = "NAME_ONLY"
 
