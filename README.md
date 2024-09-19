@@ -47,6 +47,7 @@ To make this modpack work on the server side, you should remove the following mo
 1. **Embeddium & Embeddium Plus**
 2. **Rubidium Extra**
 3. **Distant Horizons**
+4. **Zume**
 
 ---
 
