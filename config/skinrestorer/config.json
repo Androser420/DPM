@@ -1,7 +1,0 @@
-{
-  "language": "en_us",
-  "fetchSkinOnFirstJoin": true,
-  "firstJoinSkinProvider": "MOJANG",
-  "proxy": "",
-  "requestTimeout": 10
-}
