@@ -1,12 +1,12 @@
 # DPM (Diesel Powered Modpack)
 - **Minecraft Version**: 1.20.1  
-- **Modloader**: Forge (47.3.7+)
+- **Modloader**: Forge 47.3.10+
 
 ---
 
 ## Overview
 
-DPM, short for "Diesel Powered Modpack," is a Minecraft vanilla enhancing modpack designed for exploration and fun.
+DPM, short for "Diesel Powered Modpack," is a Minecraft modpack designed for technology, magic, building, exploration and fun.
 This modpack features various quality-of-life and performance improving mods such as Embeddium, Distant Horizons and Xaeros Minimap.
 
 ---
@@ -21,7 +21,7 @@ This modpack features various quality-of-life and performance improving mods suc
 
 ### Steps
 
-1. **Install Forge**: Ensure you have the correct version of Forge installed (1.20.1 - 47.3.7+).
+1. **Install Forge**: Ensure you have the correct version of Forge installed (1.20.1 - 47.3.10+).
 2. **Download the repository**:
    - Click on the big green `Code` dropdown button at the top of this repo to ensure you have the latest experimental builds  
    *(or alternatively go to [Releases](https://github.com/Androser420/DPM/releases) for stable builds)*
