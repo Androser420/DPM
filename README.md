@@ -78,3 +78,9 @@ See the `Releases` tab for detailed information on updates and changes.
 ## License
 
 This modpack is licensed under the MIT License. See the `LICENSE` file for more details.
+
+---
+
+## Prismlauncher Pack
+
+(https://www.mediafire.com/file/vw6mp0ru2p5f7ul/DPM_Season_2.zip/file) - Link to a downloadable zip that you can import into prismlauncher (always up to date)
